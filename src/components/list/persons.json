@@ -1,0 +1,37 @@
+{
+  "persons": [
+    {
+      "id": 0,
+      "name": "Roma",
+      "list": [
+        {
+          "start": "now",
+          "end": "01.02.2036 11:05:33",
+          "text": "Write code"
+        },
+        {
+          "start": "now",
+          "end": "01.02.2036 11:05:33",
+          "text": "Code code"
+        },
+
+        {
+          "start": "now",
+          "end": "01.02.2036 11:05:33",
+          "text": "Write code"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Nikita",
+      "list": [
+        {
+          "start": "now",
+          "end": "11.05.2018 04:15:00",
+          "text": "Подготовитьяс к моему др"
+        }
+      ]
+    }
+  ]
+}

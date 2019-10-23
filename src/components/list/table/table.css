@@ -1,0 +1,19 @@
+.display-inline{
+    display: inline;
+}
+
+.display-block{
+    display: block;
+}
+
+.name-style{
+    text-align: center;
+    border: 3px solid mediumslateblue;
+}
+
+th, td {
+    border: 1px solid black;
+}
+table{
+    margin:  2em;
+}
